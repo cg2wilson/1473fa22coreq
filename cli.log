@@ -1,21 +1,2 @@
 INFO    :  PreTeXt project found in `C:\Users\User\Dropbox\school\ou\20222023\1473coreq`.
 INFO    :  
-WARNING :  Assets like latex-images will not be regenerated for this build
-WARNING :  (previously generated assets will be used if they exist).
-WARNING :  To generate these assets before building, run `pretext build -g`.
-INFO    :  Preparing to build into C:\Users\User\Dropbox\school\ou\20222023\1473coreq\output\html.
-INFO    :  
-Now building HTML into C:\Users\User\Dropbox\school\ou\20222023\1473coreq\output\html
-
-INFO    :  discovering source file's directory name: C:\Users\User\Dropbox\school\ou\20222023\1473coreq\source
-INFO    :  verifying and expanding input directory: C:\Users\User\Dropbox\school\ou\20222023\1473coreq\source\../generated-assets
-INFO    :  input directory expanded to absolute path: C:\Users\User\Dropbox\school\ou\20222023\1473coreq\generated-assets
-INFO    :  verifying and expanding input directory: C:\Users\User\Dropbox\school\ou\20222023\1473coreq\source\../assets
-INFO    :  input directory expanded to absolute path: C:\Users\User\Dropbox\school\ou\20222023\1473coreq\assets
-INFO    :  converting C:\Users\User\Dropbox\school\ou\20222023\1473coreq\source\main.ptx to HTML in C:\Users\User\AppData\Local\Temp\tmpdiq6hd4p
-INFO    :  XSL conversion of C:\Users\User\Dropbox\school\ou\20222023\1473coreq\source\main.ptx by C:\Users\User\AppData\Local\Programs\Python\Python39\lib\site-packages\pretext\static\xsl\pretext-html.xsl
-INFO    :  comprehensive messages, warnings, and errors:
-INFO    :  successful application of C:\Users\User\AppData\Local\Programs\Python\Python39\lib\site-packages\pretext\static\xsl\pretext-html.xsl
-INFO    :  
-Success! Run `pretext view html` to see the results.
-
