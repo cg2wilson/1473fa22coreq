@@ -2,13 +2,108 @@
 
 <section xml:id="quant1" xmlns:xi="http://www.w3.org/2001/XInclude">
     <title>Quantitative Information 1</title>
+    <subsection xml:id="quant1-overview">
+        <title>Overview</title>
 
-    <p>
-        stuff goes here.  maybe dummy some things up.
-    </p>
-    <example>
         <p>
-            something goes here.
+            This activity is designed to reinforce the concepts learned in the quantitative information section of class.  You will be asked to collect information from your classmates, create visual interpretations of the data, and then engage in some discussion.
         </p>
-    </example>
+    </subsection>
+    <subsection xml:id="quant1-p1">
+        <title>Part 1 - Instructions</title>
+            <ol>
+                <li>
+                    Form groups of 3 or 4 with your classmates, following your teacher's instructions.
+                </li>
+                <li>
+                    <p>
+                        With your groupmates, develop a question to ask the rest of the students in the class.  The question <alert>must</alert> be formulated so that it can be answered using the following scale:
+                    </p>
+
+                    <table>
+                        <title>Scale for Poll Question</title>
+                        <tabular>
+                            <row>
+                                <cell> Numerical Value </cell>
+                                <cell> Description </cell>
+                            </row>
+                            <row>
+                                <cell> 0 </cell>
+                                <cell> Strongly Disagree </cell>
+                            </row>
+                            <row>
+                                <cell> 1 </cell>
+                                <cell> Disagree </cell>
+                            </row>
+                            <row>
+                                <cell> 2 </cell>
+                                <cell> Neutral </cell>
+                            </row>
+                            <row>
+                                <cell> 3 </cell>
+                                <cell> Agree </cell>
+                            </row>
+                            <row>
+                                <cell> 4 </cell>
+                                <cell> Strongly Agree </cell>
+                            </row>
+
+                        </tabular>
+                    </table>
+                    <p>
+                        Here are some questions that would meet the criteria above.  You can't use any of these; come up with your own unique ones!
+                    </p>
+                    <ul>
+                        <li>
+                            I am confident in my ability to succeed in this class this semester.
+                        </li>
+                        <li>
+                            I had a positive experience in high school.
+                        </li>
+                        <li>
+                            Chet Holmgren is the missing piece that the Thunder needed to make successful playoff runs in the future.
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    As a group, poll all members of the class and answer the first two questions below.  Record your answers.
+                </li>
+                <li>
+                    Create a table and two different kinds of graphs to describe your data in the space provided below.  Label your tables and graphs as discussed in class!
+                </li>
+                <li>
+                    Answer the remainng questions below.  You can (and should!) discuss with the questions with your groupmates, but the answers on your page <alert>must be your own</alert>.
+                </li>
+                <li>
+                    When you are done, submit your answers per your teacher's instructions.
+                </li>
+            </ol>
+    </subsection>
+    <subsection xml:id="quant1-p2">
+        <title>Questions</title>
+
+        <ol>
+            <li>
+                Write the name of all members of your group.
+            </li>
+            <li>
+                Write the text of your question <alert>exactly as you plan to ask it</alert>.
+            </li>
+            <li>
+                Use this space to create a table and two graphs of your choice (pie chart, histogram, pictograph, etc.)
+            </li>
+            <li>
+                Which representation of the data do you find to be the most informative?  Explain why, using complete sentences.
+            </li>
+            <li>
+                Which representation of the data do you find to be the least informative?  Explain why, using complete sentences.
+            </li>
+            <li>
+                Which representation of the data (if any) do you find deceptive? If you find one to be deceptive, explain why using complete sentences.  If you find none to be deceptive, explain why they are accurate representations of the data.
+            </li>
+            <li>
+                
+            </li>
+        </ol>
+    </subsection>
 </section>
