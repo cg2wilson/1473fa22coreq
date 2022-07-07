@@ -9,7 +9,7 @@
             This activity is designed to reinforce the concepts learned in the quantitative information section of class.  You will be asked to collect information from your classmates, create visual interpretations of the data, and then engage in some discussion.
         </p>
     </subsection>
-    <subsection xml:id="quant1-p1">
+    <subsection xml:id="quant1-instructions">
         <title>Part 1 - Instructions</title>
             <ol>
                 <li>
@@ -79,7 +79,7 @@
                 </li>
             </ol>
     </subsection>
-    <subsection xml:id="quant1-p2">
+    <subsection xml:id="quant1-questions">
         <title>Questions</title>
 
         <ol>

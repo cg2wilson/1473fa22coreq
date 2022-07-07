@@ -2,6 +2,11 @@
 
 <section xml:id="logic1" xmlns:xi="http://www.w3.org/2001/XInclude">
     <title>Logic 1</title>
-
+    <subsection xml:id="logic1-overview">
+        <title>Overview</title>
+            <p>
+                This activity is designed to extend the concepts in the early part of the logic section: sets, venn diagrams, truth tables, demorgan's laws
+            </p>
+    </subsection>
     
 </section>

@@ -2,6 +2,59 @@
 
 <section xml:id="quant2" xmlns:xi="http://www.w3.org/2001/XInclude">
     <title>Quantitative Information 2</title>
+    <subsection xml:id="quant2-overview">
+        <title>Overview</title>
 
-    
+        <p>
+            This activity is designed to review fractions, decimals, and arithmetic which might be necessary when working with rates, proportions, and percentages.
+        </p>
+    </subsection>
+
+    <subsection xml:id="quant2-fractions">
+        <title>Fractions</title>
+            <p>
+                A <term>fraction</term> is a way of representing parts of a whole number.  Fractions take the form <m>\dfrac{a}{b}</m>.  The top of a fraction is called the <term>numerator</term> and the bottom is called the <term>denominator</term>.  The denominator tells us how many parts we break the whole number into, and the numerator tells us how many parts we have.  Take the fraction <m>\dfrac{5}{12}</m> as an example. The fraction says that we are splitting a whole number into 12 total pieces, but we only have 5 of those pieces.
+            </p>
+
+            <example>
+                Example about making them rewrite a verbal situation into a fraction
+            </example>
+
+            <p>
+                There are two kinds of fractions we'll deal with: proper fractions and improper fractions.  A <term>proper fraction</term> is a fraction whose numerator is smaller than its denominator; <m>\dfrac{5}{12}</m> is an example of a proper fraction.  An <term>improper fraction</term> is a fraction whose numerator is larger than the denominator; an example of an improper fraction is <m>\dfrac{8}{3}</m>.  
+            </p>
+
+            <example>
+                Some sort of example with the difference between the two
+            </example>
+    </subsection>
+
+    <subsection xml:id="quant2-decimals">
+        <title>Decimals</title>
+
+            <p>
+                Fractions are one way of representing numbers broken out into parts.  Another way is by using decimals. A <term>decimal</term> is composed of two pieces: whole numbers greater than one (written on the left hand side of the decimal point) and numbers smaller than one (written to the right of the decimal point).
+            </p>
+
+            <example>
+                Example here about an easy decimal
+            </example>
+
+            <p>
+                To write a fraction as a decimal, we perform division.  For example, to convert the fraction <m>\dfrac{2}{5}</m> to a decimal, we do 2 divided by 5.  Whether by long division or by calculator, we get the decimal value <m>0.4</m>.  
+            </p>
+
+            <example>
+                
+            </example>
+    </subsection>
+
+    <subsection xml:id="quant2-ratios-rates-proportions">
+        <title>Ratios, Rates, and Proportions</title>
+
+        <p>
+            
+        </p>
+
+    </subsection>
 </section>

@@ -2,6 +2,12 @@
 
 <section xml:id="logic2" xmlns:xi="http://www.w3.org/2001/XInclude">
     <title>Logic 2</title>
+    <subsection xml:id="logic2-overview">
+        <title>Overview</title>
 
+            <p>
+                This activity is designed to support the material in the second half of the logic section: arguments.
+            </p>
+    </subsection>
     
 </section>
