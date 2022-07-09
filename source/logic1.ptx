@@ -8,5 +8,15 @@
                 This activity is designed to extend the concepts in the early part of the logic section: sets, venn diagrams, truth tables, demorgan's laws
             </p>
     </subsection>
-    
+    <subsection xml:id="logic1-problems">
+        <title>Problems </title>
+
+        <ol>
+            <li>
+                <p>
+                    logic games!
+                </p>
+            </li>
+        </ol>
+    </subsection>
 </section>
